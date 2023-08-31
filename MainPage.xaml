@@ -19,7 +19,7 @@
             <Button Text="Start"  Clicked="OnVerticalStartClicked"  />
             <Button Text="Center" Clicked="OnVerticalCenterClicked" />
             <Button Text="End"    Clicked="OnVerticalEndClicked"    />
-            <Button Text="Fill"   Clicked="OnVerticalFillClicked"   />
+            <Button Text="Fill"    Clicked="OnVerticalFillClicked"   />
         </HorizontalStackLayout>
 
         <Label Grid.Row="2" FontSize="25" x:Name="target" BackgroundColor="Silver" Text="Hello" />
